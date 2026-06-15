@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: testing
 max_age: 604800
-mx: mail.mir-nat.com
+mx: mx.mir-nat.com
